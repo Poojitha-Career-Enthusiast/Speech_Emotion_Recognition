@@ -20,12 +20,6 @@ Sequential modeling using LSTM and dense neural network layers
 
 End-to-end training and evaluation of the SER model
 
-🔹 Results
-
-Model performance evaluated using standard classification metrics such as accuracy, precision, recall, and F1-score
-
-Results demonstrate the effectiveness of LSTM-based models for speech emotion recognition
-
 🔹 Tools & Technologies
 
 Python, NumPy, TensorFlow/Keras, Librosa, Jupyter Notebook# Speech_Emotion_Recognition
